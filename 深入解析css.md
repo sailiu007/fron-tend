@@ -1,3 +1,5 @@
+# 第一部分 基础回顾
+
 #### 1.1.4 两条经验法则
 - 在选择器中不要使用 ID
 - 不要使用`!important`
@@ -62,6 +64,9 @@ box-sizing 的默认值为 content-box，这意味任何指定的宽或高都只
       margin-top: 1.5em;
     }
 ```
+---
+
+# 第二部分 精通布局
 
 ### 4.1 浮动的设计初衷
 
@@ -75,7 +80,7 @@ box-sizing 的默认值为 content-box，这意味任何指定的宽或高都只
     }
 ```
 
-~~### 4.2 容器折叠和清除浮动~~
+### ~~4.2 容器折叠和清除浮动~~
 
 浮动元素不同于普通文档流的元素，它们的高度不会加到父元素上。
 
@@ -156,4 +161,16 @@ position: absolute 绝对定位是**相对于最近的非 static 定位的祖先
 
 ### 8.3 流式布局
 
+---
 
+# 第三部分 大型应用程序中的CSS
+
+## 9 模块化 CSS
+
+作者设计思路是BEM (Block, Element, Modifier)
+
+目前更流行的CSS Modules、CSS-In—Js、Atomic CSS
+
+[反对CSS-In—Js的声音](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
+
+[StyleX](https://www.stylexjs.cn/)
