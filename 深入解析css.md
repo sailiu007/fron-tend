@@ -174,3 +174,26 @@ position: absolute 绝对定位是**相对于最近的非 static 定位的祖先
 [反对CSS-In—Js的声音](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
 
 [StyleX](https://www.stylexjs.cn/)
+
+---
+
+# 第四部分 高级话题
+
+## 11 背景、阴影和混合模式
+
+### 11.1 渐变
+
+linear-gradient
+
+### 11.2 阴影
+
+box-shadow、text-shadow
+
+### 11.3 混合模式
+
+background-blend-mode、mix-blend-mode有点抽象！
+
+## 12 对比、颜色和间距
+
+主色一般从公司的品牌或者 LOGO 中衍生出来。
+
